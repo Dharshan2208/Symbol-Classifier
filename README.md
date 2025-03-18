@@ -150,6 +150,6 @@ Each row maps a test sample’s `example_id` to its predicted `label`.
 
 ## ⏱️ Execution Time
 
-The script logs total execution time. On a single NVIDIA GPU (e.g., RTX 3090), training for 20 epochs takes approximately **15-30 minutes**, depending on dataset size and hardware.
+The script logs total execution time. On a single NVIDIA GPU (e.g., RTX 3090), training for 20 epochs takes approximately **30-50 minutes**, depending on dataset size and hardware.
 
 ---
